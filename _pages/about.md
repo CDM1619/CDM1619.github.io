@@ -40,6 +40,7 @@ Hi, I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Un
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Panacea: Pareto Alignment via Preference Adaptation for LLMs](https://arxiv.org/abs/2402.02030)
 
