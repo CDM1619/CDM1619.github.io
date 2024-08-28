@@ -29,7 +29,7 @@ Hi, I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Un
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence</div><img src='images/android-chrome-192x192.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence</div><img src='images/favicon-32x32.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient and Scalable Reinforcement Learning for Large-scale Network Control](xxxxx)
@@ -39,7 +39,7 @@ Hi, I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Un
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/android-chrome-192x192.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/favicon-32x32.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -50,7 +50,7 @@ Hi, I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Un
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/android-chrome-192x192.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/favicon-32x32.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Panacea: Pareto Alignment via Preference Adaptation for LLMs](https://arxiv.org/abs/2402.02030)
