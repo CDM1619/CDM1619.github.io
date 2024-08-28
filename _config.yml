@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Chengdong Ma"
 description              : # "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "CDM1619/CDM1619.github.io"
+repository               : "CDM1619/machengdong.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Chengdong Ma"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/mcd.jpg"
   bio              : "Peking University"
   location         : "Beijing, China"
   employer         :
