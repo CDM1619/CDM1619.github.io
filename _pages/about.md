@@ -29,8 +29,19 @@ Hi, I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Un
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence</div><img src='images/android-chrome-192x192.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Efficient and Scalable Reinforcement Learning for Large-scale Network Control](xxxxx)
+
+**Chengdong Ma**, Aming Li, Yali Du, Hao Dong, Yaodong Yang
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/android-chrome-192x192.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [Evolving Diverse Red-team Language Models in Multi-round Multi-agent Games](https://arxiv.org/abs/2310.00322)
 
