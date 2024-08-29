@@ -37,16 +37,6 @@ Hi, I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Un
 
 **Chengdong Ma\***, Aming Li\*, Yali Du\*, Hao Dong, Yaodong Yang
 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2023</div><img src='images/RTG.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-[Evolving Diverse Red-team Language Models in Multi-round Multi-agent Games](https://arxiv.org/abs/2310.00322)
-
-**Chengdong Ma\***, Ziran Yang\*, Hai Ci, Jun Gao, Minquan Gao, Xuehai Pan, Yaodong Yang
 
 </div>
 </div>
@@ -67,6 +57,17 @@ Yifan Zhong\*, **Chengdong Ma\***, Xiaoyuan Zhang\*, Ziran Yang, Haojun Chen, Qi
 [A Survey on Self-play Methods in Reinforcement Learning](https://arxiv.org/abs/2408.01072)
 
 Ruize Zhang, Zelai Xu, **Chengdong Ma**, Chao Yu, Wei-Wei Tu, Shiyu Huang, Deheng Ye, Wenbo Ding, Yaodong Yang, Yu Wang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2023</div><img src='images/RTG.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[Evolving Diverse Red-team Language Models in Multi-round Multi-agent Games](https://arxiv.org/abs/2310.00322)
+
+**Chengdong Ma\***, Ziran Yang\*, Hai Ci, Jun Gao, Minquan Gao, Xuehai Pan, Yaodong Yang
 
 </div>
 </div>
