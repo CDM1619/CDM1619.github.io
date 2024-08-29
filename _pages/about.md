@@ -35,7 +35,7 @@ Hi, I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Un
 
 [Efficient and Scalable Reinforcement Learning for Large-scale Network Control](https://www.nature.com/articles/s42256-024-00879-7)
 
-**Chengdong Ma**, Aming Li, Yali Du, Hao Dong, Yaodong Yang
+**Chengdong Ma\***, Aming Li\*, Yali Du\*, Hao Dong, Yaodong Yang
 
 </div>
 </div>
@@ -46,7 +46,7 @@ Hi, I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Un
 
 [Evolving Diverse Red-team Language Models in Multi-round Multi-agent Games](https://arxiv.org/abs/2310.00322)
 
-**Chengdong Ma**, Ziran Yang, Hai Ci, Jun Gao, Minquan Gao, Xuehai Pan, Yaodong Yang
+**Chengdong Ma\***, Ziran Yang\*, Hai Ci, Jun Gao, Minquan Gao, Xuehai Pan, Yaodong Yang
 
 </div>
 </div>
@@ -56,7 +56,7 @@ Hi, I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Un
 
 [Panacea: Pareto Alignment via Preference Adaptation for LLMs](https://arxiv.org/abs/2402.02030)
 
-Yifan Zhong, **Chengdong Ma**, Xiaoyuan Zhang, Ziran Yang, Haojun Chen, Qingfu Zhang, Siyuan Qi, Yaodong Yang
+Yifan Zhong\*, **Chengdong Ma\***, Xiaoyuan Zhang\*, Ziran Yang, Haojun Chen, Qingfu Zhang, Siyuan Qi, Yaodong Yang
 
 
 
