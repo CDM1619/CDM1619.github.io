@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# 📖 Biography
+# 📖 About me
 Hi, I am a Ph.D. student at the Institute for Artificial Intelligence, Peking University. I am working under the supervision of Prof. Yaodong Yang, my first initiation mentor in the field of multi-agent learning. Previously, I received my B.S. degree in Physics from Beihang University. My research interests lie in reinforcement learning, game theory, and their intersection with fundamental science. The current topics I am focused on include:
 - **Multi-agent Learning**: Develop methods for solving team games that involve both cooperation and competition under incomplete or imperfect information, as well as approaches for collaboration in large-scale systems.
 - **AI for Fundamental Science**: Apply reinforcement learning and game theory to address fundamental scientific problems.
