@@ -28,7 +28,7 @@ Hi, I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Un
 - *2024.08*: &nbsp;🎉🎉 Becoming one of the first students at the National School of Artificial Intelligence.
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
