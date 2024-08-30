@@ -24,7 +24,7 @@ Hi, I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Un
 
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉 One paper gets accepted on **Nature Machine Intelligence***.
+- *2024.08*: &nbsp;🎉🎉 One paper gets accepted on **_Nature Machine Intelligence_**.
 - *2024.08*: &nbsp;🎉🎉 Becoming one of the first students at the **National School of Artificial Intelligence**.
 
 
