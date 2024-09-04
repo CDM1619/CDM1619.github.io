@@ -36,7 +36,7 @@ Hi, I am a first-year Ph.D. student at the Institute for Artificial Intelligence
 
 [Efficient and Scalable Reinforcement Learning for Large-scale Network Control](https://www.nature.com/articles/s42256-024-00879-7)
 
-**Chengdong Ma\***, Aming Li\*, Yali Du\*, Hao Dong, Yaodong Yang
+**Chengdong Ma\***, Aming Li\*, Yali Du\*, Hao Dong, Yaodong Yang  
 
 This research has been covered by the national authoritative media outlets [**XinHua net**](http://www.news.cn/tech/20240904/1eeb042bdd5f4c6187fe0e2aa31196db/c.html) and [**Science and Technology Daily**](https://www.stdaily.com/web/gdxw/2024-09/03/content_223871.html).
 </div>
