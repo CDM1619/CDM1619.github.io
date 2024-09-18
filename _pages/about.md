@@ -39,9 +39,9 @@ Hi, I am a first-year Ph.D. student at the Institute for Artificial Intelligence
 **Chengdong Ma\***, Aming Li\*, Yali Du\*, Hao Dong, Yaodong Yang  
 
 This work has been covered by the national authoritative media outlets 
--[新华网 XinHua Net](http://www.news.cn/tech/20240904/1eeb042bdd5f4c6187fe0e2aa31196db/c.html)
--[科技日报 Science and Technology Daily](https://app.kjrb.com.cn/app/template/displayTemplate/news/newsDetail/136908.html?isDigital=true&isShare=true)
--[北京大学新闻网 Peking University News](https://news.pku.edu.cn/jxky/8d095ff4be784b7c9431125fe5658e45.htm)
+<p>[新华网 XinHua Net](http://www.news.cn/tech/20240904/1eeb042bdd5f4c6187fe0e2aa31196db/c.html)<p>
+<p>[科技日报 Science and Technology Daily](https://app.kjrb.com.cn/app/template/displayTemplate/news/newsDetail/136908.html?isDigital=true&isShare=true)<p>
+<p>[北京大学新闻网 Peking University News](https://news.pku.edu.cn/jxky/8d095ff4be784b7c9431125fe5658e45.htm)<p>
 </div>
 </div>
 
