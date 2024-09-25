@@ -24,6 +24,7 @@ Hi, I am a first-year Ph.D. student at the Institute for Artificial Intelligence
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 One paper gets accepted in **_NeurIPS 2024_**.
 - *2024.08*: &nbsp;🎉🎉 Becoming a student at the **National School of Artificial Intelligence**.
 - *2024.07*: &nbsp;🎉🎉 One paper gets accepted on **_Nature Machine Intelligence_**.
 
@@ -55,7 +56,7 @@ Yifan Zhong\*, **Chengdong Ma\***, Xiaoyuan Zhang\*, Ziran Yang, Haojun Chen, Qi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/selfplay_survey.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/selfplay_survey.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Survey on Self-play Methods in Reinforcement Learning](https://arxiv.org/abs/2408.01072)
