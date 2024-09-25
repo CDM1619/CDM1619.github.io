@@ -46,7 +46,7 @@ This work has been covered by the national media: <br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/panacea.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/panacea.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Panacea: Pareto Alignment via Preference Adaptation for LLMs](https://arxiv.org/abs/2402.02030)
@@ -56,7 +56,7 @@ Yifan Zhong\*, **Chengdong Ma\***, Xiaoyuan Zhang\*, Ziran Yang, Haojun Chen, Qi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/selfplay_survey.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/selfplay_survey.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Survey on Self-play Methods in Reinforcement Learning](https://arxiv.org/abs/2408.01072)
