@@ -25,7 +25,6 @@ Hi, I am a first-year Ph.D. student at the Institute for Artificial Intelligence
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 One paper gets accepted in **_NeurIPS 2024_**.
-- *2024.08*: &nbsp;🎉🎉 Becoming a student at the **National School of Artificial Intelligence**.
 - *2024.07*: &nbsp;🎉🎉 One paper gets accepted on **_Nature Machine Intelligence_**.
 
 
