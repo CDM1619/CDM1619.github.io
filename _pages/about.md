@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👤 About me
-Hi, I am a first-year Ph.D. student at the Institute for Artificial Intelligence, Peking University. I am working under the supervision of Prof. Yaodong Yang, my first initiation mentor in the field of multi-agent learning. Previously, I received a B.S. degree in Physics from Beihang University. My research interests include reinforcement learning, game theory, and their intersection with fundamental science. The current topics I am focused on are:
+Hi, I am a first-year Ph.D. student at the Institute for Artificial Intelligence, Peking University. I am working under the supervision of Prof. Yaodong Yang, my first initiation mentor in the field of multi-agent learning. My research interests include reinforcement learning, game theory, and their intersection with fundamental science. The current topics I am focused on are:
 - **Multi-agent Learning**: Develop methods for solving team games that involve both cooperation and competition under incomplete or imperfect information, as well as approaches for collaboration in large-scale systems.
 - **Reinforcement Learning for Science**: Apply reinforcement learning and game theory to address fundamental scientific problems.
 
