@@ -36,7 +36,7 @@ Hi, I am a first-year Ph.D. student at the Institute for Artificial Intelligence
 
 [Efficient and Scalable Reinforcement Learning for Large-scale Network Control](https://www.nature.com/articles/s42256-024-00879-7)
 
-**Chengdong Ma\***, Aming Li\*, Yali Du\*, Hao Dong, <span style="color: ##D3D3D3;">Yaodong Yang</span>  <br>
+**Chengdong Ma\***, Aming Li\*, Yali Du\*, Hao Dong, Yaodong Yang  <br>
 
 This work has been covered by the national media: <br>
 [新华网 XinHua Net](http://www.news.cn/tech/20240904/1eeb042bdd5f4c6187fe0e2aa31196db/c.html)<br>
@@ -50,7 +50,7 @@ This work has been covered by the national media: <br>
 
 [Panacea: Pareto Alignment via Preference Adaptation for LLMs](https://arxiv.org/abs/2402.02030)
 
-Yifan Zhong\*, **Chengdong Ma\***, Xiaoyuan Zhang\*, Ziran Yang, Haojun Chen, Qingfu Zhang, Siyuan Qi, <span style="color: ##D3D3D3;">Yaodong Yang</span>
+Yifan Zhong\*, **Chengdong Ma\***, Xiaoyuan Zhang\*, Ziran Yang, Haojun Chen, Qingfu Zhang, Siyuan Qi, Yaodong Yang
 
 </div>
 </div>
