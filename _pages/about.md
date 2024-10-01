@@ -50,7 +50,7 @@ This work has been covered by the national media: <br>
 
 [Panacea: Pareto Alignment via Preference Adaptation for LLMs](https://arxiv.org/abs/2402.02030)
 
-Yifan Zhong\*, **Chengdong Ma\***, Xiaoyuan Zhang\*, Ziran Yang, Haojun Chen, Qingfu Zhang, Siyuan Qi, Yaodong Yang
+Yifan Zhong\*, **Chengdong Ma\***, Xiaoyuan Zhang\*, Ziran Yang, Haojun Chen, Qingfu Zhang, Siyuan Qi, <span style="color: ##D3D3D3;">Yaodong Yang</span>
 
 </div>
 </div>
