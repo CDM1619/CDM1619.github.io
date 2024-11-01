@@ -24,8 +24,8 @@ Hi, I am a first-year Ph.D. student at the Institute for Artificial Intelligence
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 One paper gets accepted in **_NeurIPS 2024_**.
-- *2024.07*: &nbsp;🎉🎉 One paper gets accepted on **_Nature Machine Intelligence_**.
+- **_2024.09_**: &nbsp;🎉🎉 One paper gets accepted in **_NeurIPS 2024_**.
+- **_2024.07_**: &nbsp;🎉🎉 One paper gets accepted on **_Nature Machine Intelligence_**.
 
 
 
@@ -86,8 +86,8 @@ Yali Du\*, **Chengdong Ma\***, Yuchen Liu, Runji Lin, Hao Dong, Jun Wang, Yaodon
 </div>
 
 # 🎙 Talks
-- *2024.10*: Invited Talk at National Key Lab of Autonomous Intelligent Unmanned Systems in Beijing Institute of Technology.
-- *2024.09*: Invited Talk at Beijing Institute for General Artificial Intelligence.
+- **_2024.10_**: Invited Talk at National Key Lab of Autonomous Intelligent Unmanned Systems in Beijing Institute of Technology.
+- **_2024.09_**: Invited Talk at Beijing Institute for General Artificial Intelligence.
 
 
 
