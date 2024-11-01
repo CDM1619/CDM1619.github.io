@@ -82,11 +82,12 @@ Ruize Zhang, Zelai Xu, **Chengdong Ma**, Chao Yu, Wei-Wei Tu, Shiyu Huang, Dehen
 [Scalable model-based policy optimization for decentralized networked systems](https://ieeexplore.ieee.org/abstract/document/9982253)
 
 Yali Du\*, **Chengdong Ma\***, Yuchen Liu, Runji Lin, Hao Dong, Jun Wang, Yaodong Yang
-
+</div>
+</div>
 
 # 🎙 Talks
-- *2024.10*: Invited Talk at HKUST Machine Creativity Lab
-- *2024.09*: Invited Talk at HKUST Machine Creativity Lab
+- *2024.10*: Invited Talk at National Key Lab of Autonomous Intelligent Unmanned Systems in Beijing Institute of Technology.
+- *2024.09*: Invited Talk at Beijing Institute for General Artificial Intelligence.
 
 
 
