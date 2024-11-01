@@ -84,7 +84,9 @@ Ruize Zhang, Zelai Xu, **Chengdong Ma**, Chao Yu, Wei-Wei Tu, Shiyu Huang, Dehen
 Yali Du\*, **Chengdong Ma\***, Yuchen Liu, Runji Lin, Hao Dong, Jun Wang, Yaodong Yang
 
 
-
+# 🎙 Talks
+- *2024.10*: Invited Talk at HKUST Machine Creativity Lab
+- *2024.09*: Invited Talk at HKUST Machine Creativity Lab
 
 
 
