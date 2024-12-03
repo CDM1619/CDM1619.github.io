@@ -58,16 +58,6 @@ Yifan Zhong\*, **Chengdong Ma\***, Xiaoyuan Zhang\*, Ziran Yang, Haojun Chen, Qi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/selfplay_survey.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Survey on Self-play Methods in Reinforcement Learning](https://arxiv.org/abs/2408.01072)
-
-Ruize Zhang, Zelai Xu, **Chengdong Ma**, Chao Yu, Wei-Wei Tu, Shiyu Huang, Deheng Ye, Wenbo Ding, Yaodong Yang, Yu Wang
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2023</div><img src='images/RTG.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 
 [Evolving Diverse Red-team Language Models in Multi-round Multi-agent Games](https://arxiv.org/abs/2310.00322)
 
