@@ -55,9 +55,9 @@ Yifan Zhong\*, **Chengdong Ma\***, Xiaoyuan Zhang\*, Ziran Yang, Haojun Chen, Qi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/selfplay_survey.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2023</div><img src='images/RTG.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Evolving Diverse Red-team Language Models in Multi-round Multi-agent Games](https://arxiv.org/abs/2310.00322)
 
