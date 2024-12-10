@@ -24,6 +24,7 @@ I am a first-year Ph.D. student at the Institute for Artificial Intelligence, Pe
 
 
 # 🔥 News
+- **_2024.12_**: &nbsp;🎉🎉 One paper gets accepted in **_AAAI 2025_**.
 - **_2024.09_**: &nbsp;🎉🎉 One paper gets accepted in **_NeurIPS 2024_**.
 - **_2024.07_**: &nbsp;🎉🎉 One paper gets accepted on **_Nature Machine Intelligence_**.
 
