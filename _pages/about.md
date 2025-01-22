@@ -24,6 +24,7 @@ I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Univer
 
 
 # 🔥 News
+- **_2025.01_**: &nbsp;🎉🎉 Two papers get accepted in **_ICLR 2025_**.
 - **_2024.12_**: &nbsp;🎉🎉 One paper gets accepted in **_AAMAS 2025_**.
 - **_2024.12_**: &nbsp;🎉🎉 One paper gets accepted in **_AAAI 2025_**.
 - **_2024.09_**: &nbsp;🎉🎉 One paper gets accepted in **_NeurIPS 2024_**.
