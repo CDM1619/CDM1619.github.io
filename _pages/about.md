@@ -117,7 +117,7 @@ Mingzhi Wang, **Chengdong Ma**, Yaodong Yang
 </div>
 </div>
 
-<span class='anchor' id='-invited-talks'></span>
+
 # 🎙 Talks
 - **_2024.12_**: Invited Talk in Distributed Artificial Intelligence (DAI) conference.
 - **_2024.10_**: Invited Talk at National Key Lab of Autonomous Intelligent Unmanned Systems in Beijing Institute of Technology.
