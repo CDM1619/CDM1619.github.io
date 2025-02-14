@@ -51,7 +51,7 @@ This work has been covered by: <br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/MPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Magnetic Preference Optimization: Achieving Last-iterate Convergence for Language Model Alignment]([https://arxiv.org/abs/2402.02030](https://arxiv.org/abs/2410.16714))
+[Magnetic Preference Optimization: Achieving Last-iterate Convergence for Language Model Alignment](https://arxiv.org/abs/2410.16714)
 
 Mingzhi Wang, **Chengdong Ma**, Qizhi Chen, Linjian Meng, Yang Han, Jiancong Xiao, Zhaowei Zhang, Jing Huo, Weijie J. Su, Yaodong Yang
 
