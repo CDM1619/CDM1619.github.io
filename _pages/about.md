@@ -58,6 +58,16 @@ Mingzhi Wang, **Chengdong Ma**, Qizhi Chen, Linjian Meng, Yang Han, Jiancong Xia
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAMAS 2025</div><img src='images/MFCIL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mean Field Correlated Imitation Learning]([xxxxx](https://arxiv.org/abs/2997.06714))
+
+Zhiyu Zhao, **Chengdong Ma**, Qirui Mi, Ning Yang, Xue Yan, Mengyue Yang, Haifeng Zhang, Jun Wang, Yaodong Yang
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/panacea.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
