@@ -40,8 +40,6 @@ I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Univer
 
 **Chengdong Ma\***, Aming Li\*, Yali Du\*, Hao Dong, Yaodong Yang  <be>
 
-**Nature Machine Intelligence**
-
 This work has been covered by: <br>
 [新华网 XinHua Net](http://www.news.cn/tech/20240904/1eeb042bdd5f4c6187fe0e2aa31196db/c.html)<br>
 [科技日报 Science and Technology Daily](https://app.kjrb.com.cn/app/template/displayTemplate/news/newsDetail/136908.html?isDigital=true&isShare=true)<br>
