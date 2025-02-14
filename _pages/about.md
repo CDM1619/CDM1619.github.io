@@ -98,6 +98,15 @@ Yali Du\*, **Chengdong Ma\***, Yuchen Liu, Runji Lin, Hao Dong, Jun Wang, Yaodon
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/car_combat.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Confrontation and Obstacle-Avoidance of Unmanned Vehicles Based on Progressive Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10130281)
+
+**Chengdong Ma**, Jianan Liu, Saichao He, Wenjing Hong, Jia Shi
+</div>
+</div>
+
 <span class='anchor' id='-invited-talks'></span>
 # 🎙 Talks
 - **_2024.12_**: Invited Talk in Distributed Artificial Intelligence (DAI) conference.
