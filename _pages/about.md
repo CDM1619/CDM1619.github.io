@@ -33,7 +33,6 @@ I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Univer
 
 
 # 📝 Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence</div><img src='images/Networked-MARL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -109,7 +108,6 @@ Yali Du\*, **Chengdong Ma\***, Yuchen Liu, Runji Lin, Hao Dong, Jun Wang, Yaodon
 
 <span class='anchor' id='-resource'></span>
 # 📦 Resources
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML Tutorial</div><img src='images/tutorial.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
