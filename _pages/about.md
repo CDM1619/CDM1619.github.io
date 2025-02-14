@@ -113,7 +113,7 @@ Yali Du\*, **Chengdong Ma\***, Yuchen Liu, Runji Lin, Hao Dong, Jun Wang, Yaodon
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML Tutorial</div><img src='images/tutorial.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Alignment Methods in Large Language Models](https://drive.google.com/drive/folders/1cSWr7hGVcJ-rMFxyEa3x-DKnUGcO5WxK) **ICML Tutorial**
+[Alignment Methods in Large Language Models](https://drive.google.com/drive/folders/1cSWr7hGVcJ-rMFxyEa3x-DKnUGcO5WxK)
 
 Mingzhi Wang, **Chengdong Ma**, Yaodong Yang
 </div>
