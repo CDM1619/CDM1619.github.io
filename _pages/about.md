@@ -108,9 +108,9 @@ Yali Du\*, **Chengdong Ma\***, Yuchen Liu, Runji Lin, Hao Dong, Jun Wang, Yaodon
 </div>
 
 <span class='anchor' id='-resource'></span>
-# 📝 Resources
+# 📦 Resources
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Tutorial</div><img src='images/car_combat.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Tutorial</div><img src='images/tutorial.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Alignment Methods in Large Language Models](https://drive.google.com/drive/folders/1cSWr7hGVcJ-rMFxyEa3x-DKnUGcO5WxK)
