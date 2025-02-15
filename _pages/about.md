@@ -70,7 +70,7 @@ Zhiyu Zhao, **Chengdong Ma**, Qirui Mi, Ning Yang, Xue Yan, Mengyue Yang, Haifen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/panacea.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Panacea: Pareto Alignment via Preference Adaptation for LLMs](https://arxiv.org/abs/2402.02030)
+[Panacea: Pareto Alignment via Preference Adaptation for LLMs](https://proceedings.neurips.cc/paper_files/paper/2024/hash/89f39d0b3d49a47606a165eefba2778c-Abstract-Conference.html)
 
 Yifan Zhong\*, **Chengdong Ma\***, Xiaoyuan Zhang\*, Ziran Yang, Haojun Chen, Qingfu Zhang, Siyuan Qi, Yaodong Yang
 
