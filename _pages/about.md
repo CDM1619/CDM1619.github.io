@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👤 About me
-I am a Ph.D. student at the Institute for Artificial Intelligence, Peking University. I am working under the supervision of Prof. Yaodong Yang, my first initiation mentor in multi-agent systems. My research interests include reinforcement learning, game theory, and their intersection with fundamental science. The current topics I am focused on are:
+I am a Ph.D. student at the Institute for Artificial Intelligence, Peking University. I am working under the supervision of Prof. [Yaodong Yang](https://www.yangyaodong.com/), my first initiation mentor in multi-agent systems. My research interests include reinforcement learning, game theory, and their intersection with fundamental science. The current topics I am focused on are:
 - **Multi-agent Learning**: Developing practical algorithms for large-scale system control and multi-player computer games.
 - **Reinforcement Learning for Science**: Exploring the potential of reinforcement learning in fundamental scientific problems.
 
@@ -98,14 +98,6 @@ Yali Du\*, **Chengdong Ma\***, Yuchen Liu, Runji Lin, Hao Dong, Jun Wang, Yaodon
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/car_combat.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Confrontation and Obstacle-Avoidance of Unmanned Vehicles Based on Progressive Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10130281)
-
-**Chengdong Ma**, Jianan Liu, Saichao He, Wenjing Hong, Jia Shi
-</div>
-</div>
 
 <span class='anchor' id='-resource'></span>
 # 📦 Resources and Tutorials
