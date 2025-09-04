@@ -99,7 +99,7 @@ Yali Du\*, **Chengdong Ma\***, Yuchen Liu, Runji Lin, Hao Dong, Jun Wang, Yaodon
 
 
 <span class='anchor' id='-resource'></span>
-# 📦 Resources and Tutorials
+# 📦 Resources
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Tutorial</div><img src='images/alignment_slides_new.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
