@@ -22,7 +22,7 @@ I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Univer
 - **Reinforcement Learning for Math**: Exploring the potential of reinforcement learning in fundamental mathematical problems.
 
 
-
+<!--
 # 🔥 News
 - **_2025.05_**: &nbsp;🎉🎉 One paper gets accepted in **_ICML 2025_**.
 - **_2025.01_**: &nbsp;🎉🎉 Two papers get accepted in **_ICLR 2025_**.
@@ -30,7 +30,7 @@ I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Univer
 - **_2024.12_**: &nbsp;🎉🎉 One paper gets accepted in **_AAAI 2025_**.
 - **_2024.09_**: &nbsp;🎉🎉 One paper gets accepted in **_NeurIPS 2024_**.
 - **_2024.07_**: &nbsp;🎉🎉 One paper gets accepted on **_Nature Machine Intelligence_**.
-
+-->
 
 
 # 📝 Publications 
