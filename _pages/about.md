@@ -88,14 +88,7 @@ Yifan Zhong\*, **Chengdong Ma\***, Xiaoyuan Zhang\*, Ziran Yang, Haojun Chen, Qi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2022</div><img src='images/IROS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Scalable model-based policy optimization for decentralized networked systems](https://ieeexplore.ieee.org/abstract/document/9982253)
-
-Yali Du\*, **Chengdong Ma\***, Yuchen Liu, Runji Lin, Hao Dong, Jun Wang, Yaodong Yang
-</div>
-</div>
 
 
 <span class='anchor' id='-resource'></span>
