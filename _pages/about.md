@@ -34,7 +34,7 @@ I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Univer
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/MPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/packing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Finding Kissing Numbers with Game-theoretic Reinforcement Learning](https://arxiv.org/abs/2511.13391)
