@@ -37,12 +37,14 @@ I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Univer
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/packing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+<b><i><span style="color:#B22222;">A breakthrough on Hilbert’s 18th problem in positive curvature by AI.</span></i></b><br>
+
 [Finding Kissing Numbers with Game-theoretic Reinforcement Learning](https://arxiv.org/abs/2511.13391)
 
 **Chengdong Ma\***, Théo Tao Zhaowei\*, Pengyu Li\*, Minghao Liu, Haojun Chen, Zihao Mao, Yuan Cheng, Yuan Qi, Yaodong Yang
 
 
-<b><i><span style="color:#B22222;">A breakthrough on Hilbert’s 18th problem in positive curvature by AI.</span></i></b><br>
+
 <b><i><span style="color:#000000;">Validated by [Henry Cohn (MIT)](https://cohn.mit.edu/kissing-numbers/#7), the leading mathematician in the field.</span></i></b>
 
 
