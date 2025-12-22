@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chengdong Ma"
-description              : "Chengdong Ma is a PhD student at Peking University"
+description              : " "
 repository               : "CDM1619/CDM1619.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -15,7 +15,7 @@ google_scholar_stats_use_cdn : true
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification :  "1fzyqjym3bs2smH8Dcg50qTikoiSXMUo5H53mhuNpW4"
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
