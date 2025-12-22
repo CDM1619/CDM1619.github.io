@@ -42,7 +42,7 @@ I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Univer
 **Chengdong Ma\***, Théo Tao Zhaowei\*, Pengyu Li\*, Minghao Liu, Haojun Chen, Zihao Mao, Yuan Cheng, Yuan Qi, Yaodong Yang
 
 
-<b><i><span style="color:#B22222;">We made breakthrough on Hilbert’s 18th problem in positive curvature by AI.</span></i></b>
+<b><i><span style="color:#B22222;">A breakthrough on Hilbert’s 18th problem in positive curvature by AI</span></i></b>
 
 
 </div>
