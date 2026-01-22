@@ -45,7 +45,7 @@ I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Univer
 
 
 
-<b><i><span style="color:#000000;">Validated by [Henry Cohn (MIT)](https://cohn.mit.edu/kissing-numbers/#7), the leading mathematician in the field.</span></i></b>
+<b><i><span style="color:#000000;">Validated and included in the standard databases for [Kissing Numbers](https://cohn.mit.edu/kissing-numbers/#7) and [Spherical Codes](https://spherical-codes.org/).</span></i></b>
 
 
 </div>
