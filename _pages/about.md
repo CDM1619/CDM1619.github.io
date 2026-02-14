@@ -51,6 +51,7 @@ I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Univer
 
 This work has been covered by: <br>
 [科技日报 Science and Technology Daily](https://www.stdaily.com/web/gdxw/2026-02/14/content_474557.html)<br>
+[MIT Technology Review](https://www.mittrchina.com/news/detail/15923)<br>
 
 </div>
 </div>
