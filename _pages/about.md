@@ -49,6 +49,8 @@ I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Univer
 
 <b><i><span style="color:#000000;">🎬 Research Documentary: [English Version](https://www.youtube.com/watch?v=UA2OfJa4H84), [Chinese Version](https://www.bilibili.com/video/BV1L9Z7BpE1V/?spm_id_from=333.337.search-card.all.click&vd_source=072ee6c3b99fc631ef587312d04f1f7a)</span></i></b>
 
+This work has been covered by: <br>
+[科技日报 Science and Technology Daily](https://www.stdaily.com/web/gdxw/2026-02/14/content_474557.html)<br>
 
 </div>
 </div>
