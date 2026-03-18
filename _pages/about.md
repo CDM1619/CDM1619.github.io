@@ -73,6 +73,16 @@ This work has been covered by: <br>
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/MFCIL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Game-Theoretic Multiagent Reinforcement Learning](https://arxiv.org/abs/2011.00583)
+
+Yaodong Yang\*, **Chengdong Ma\***, Zihan Ding, Stephen McAleer, Chi Jin, Jun Wang, Tuomas Sandholm
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/MPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
