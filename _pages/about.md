@@ -73,7 +73,7 @@ This work has been covered by: <br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/MFCIL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Game-Theoretic Multiagent Reinforcement Learning](https://arxiv.org/abs/2011.00583)
