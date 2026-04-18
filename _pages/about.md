@@ -48,12 +48,11 @@ I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Univer
 <b><i><span style="color:#000000;">Recorded in the standard databases for [Kissing Number](https://cohn.mit.edu/kissing-numbers/#7) and [Spherical Code](https://spherical-codes.org/)</span></i></b>
 
 
-<b><i><span style="color:#000000;">Research Documentary: [English Version](https://www.youtube.com/watch?v=UA2OfJa4H84), [Chinese Version](https://www.bilibili.com/video/BV1L9Z7BpE1V/?spm_id_from=333.337.search-card.all.click&vd_source=072ee6c3b99fc631ef587312d04f1f7a)</span></i></b>
+<b><i><span style="color:#000000;">Research Documentary: [English Version](https://www.youtube.com/watch?v=UA2OfJa4H84), [Chinese Version](https://www.bilibili.com/video/BV1GgAZzkEAe/?spm_id_from=333.1387.favlist.content.click&vd_source=072ee6c3b99fc631ef587312d04f1f7a)</span></i></b>
 
 This work has been covered by: <br>
 [科技日报 Science and Technology Daily](https://mp.weixin.qq.com/s/Pc0yb6sRnvfmzhVz2qgzOw)<br>
 [麻省理工科技评论 MIT Technology Review](https://www.mittrchina.com/news/detail/15923)<br>
-[环球科学 Scientific American](https://mp.weixin.qq.com/s/N1ZLkeLQVoa2Ou3v6AIxxw)<br>
 
 
 </div>
@@ -71,7 +70,7 @@ This work has been covered by: <br>
 This work has been covered by: <br>
 [新华网 XinHua Net](http://www.news.cn/tech/20240904/1eeb042bdd5f4c6187fe0e2aa31196db/c.html)<br>
 [科技日报 Science and Technology Daily](https://app.kjrb.com.cn/app/template/displayTemplate/news/newsDetail/136908.html?isDigital=true&isShare=true)<br>
-[北京大学新闻网 Peking University News](https://news.pku.edu.cn/jxky/8d095ff4be784b7c9431125fe5658e45.htm)
+
 </div>
 </div>
 
