@@ -66,7 +66,7 @@ This work has been covered by: <br>
 
 **Chengdong Ma\***, Aming Li\*, Yali Du\*, Hao Dong, Yaodong Yang  <be>
 
-UKRI 2026 Best Research Paper Award
+[UKRI 2026 Best Research Paper Award](images/best_paper.pdf)
 
 This work has been covered by: <br>
 [新华网 XinHua Net](http://www.news.cn/tech/20240904/1eeb042bdd5f4c6187fe0e2aa31196db/c.html)<br>
