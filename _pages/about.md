@@ -62,7 +62,7 @@ This work has been covered by: <br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence</div><img src='images/NMI_fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<b><i><a href="https://raw.githubusercontent.com/yourname/yourrepo/main/images/best_paper.pdf" style="color:#B22222;">UKRI 2026 Best Research Paper Award</a></i></b><br>
+<b><i><a href="https://raw.githubusercontent.com/CDM1619/CDM1619.github.io/main/images/best_paper.pdf" style="color:#B22222; text-decoration: none;">UKRI 2026 Best Research Paper Award</a></i></b><br>
 
 [Efficient and Scalable Reinforcement Learning for Large-scale Network Control](https://www.nature.com/articles/s42256-024-00879-7)
 
