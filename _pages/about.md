@@ -78,7 +78,7 @@ This work has been covered by: <br>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Pattern Analysis and Machine Intelligence</div><img src='images/RTG.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='images/RTG.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Evolving Diverse Red-team Language Models in Multi-round Multi-agent Games](https://ieeexplore.ieee.org/document/11523653)
