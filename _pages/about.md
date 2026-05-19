@@ -78,10 +78,10 @@ This work has been covered by: <br>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/RTG.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TPAMI 2026</div><img src='images/RTG.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Evolving Diverse Red-team Language Models in Multi-round Multi-agent Games](https://arxiv.org/abs/2310.00322)
+[Evolving Diverse Red-team Language Models in Multi-round Multi-agent Games](https://ieeexplore.ieee.org/document/11523653)
 
 **Chengdong Ma\***, Ziran Yang\*, Hai Ci, Jun Gao, Minquan Gao, Xuehai Pan, Yaodong Yang
 
