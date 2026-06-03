@@ -41,7 +41,7 @@ I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Univer
 
 [Finding Kissing Numbers with Game-theoretic Reinforcement Learning](https://arxiv.org/abs/2511.13391)
 
-**Chengdong Ma\***, Théo Tao Zhaowei\*, Pengyu Li\*, Minghao Liu, Haojun Chen, Zihao Mao, Yuan Cheng, Yuan Qi, Yaodong Yang
+**Chengdong Ma\***, Théo Tao Zhaowei\*, Pengyu Li\*, Minghao Liu, Haojun Chen, Zihao Mao, Bo Li, Yuan Cheng, Yuan Qi, Yaodong Yang
 
 
 
