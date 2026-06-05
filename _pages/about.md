@@ -98,25 +98,6 @@ Yaodong Yang\*, **Chengdong Ma\***, Zihan Ding, Stephen McAleer, Chi Jin, Jun Wa
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/MPO.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Magnetic Preference Optimization: Achieving Last-iterate Convergence for Language Model Alignment](https://arxiv.org/abs/2410.16714)
-
-Mingzhi Wang, **Chengdong Ma**, Qizhi Chen, Linjian Meng, Yang Han, Jiancong Xiao, Zhaowei Zhang, Jing Huo, Weijie J. Su, Yaodong Yang
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAMAS 2025</div><img src='images/MFCIL.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Mean Field Correlated Imitation Learning](https://dl.acm.org/doi/10.5555/3709347.3743877)
-
-Zhiyu Zhao, **Chengdong Ma**, Qirui Mi, Ning Yang, Xue Yan, Mengyue Yang, Haifeng Zhang, Jun Wang, Yaodong Yang
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/panacea.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
