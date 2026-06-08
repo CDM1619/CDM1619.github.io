@@ -98,6 +98,16 @@ Yaodong Yang\*, **Chengdong Ma\***, Zihan Ding, Stephen McAleer, Chi Jin, Jun Wa
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Position Paper</div><img src='images/survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[World Models Should Prioritize the Unification of Physical and Social Dynamics](https://proceedings.neurips.cc/paper_files/paper/2025/hash/d0089c70e9fd42ebddd596d11af15e9e-Abstract-Position_Paper_Track.html)
+
+Xiaoyuan Zhang\*, **Chengdong Ma\***, Yizhe Huang, Weidong Huang, Siyuan Qi, Song-Chun Zhu, Xue Feng, Yaodong Yang
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/panacea.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
