@@ -45,7 +45,7 @@ I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Univer
 
 
 
-<b><i><span style="color:#000000;">Recorded in the standard databases for [Kissing Number](https://cohn.mit.edu/kissing-numbers/#7) and [Spherical Code](https://spherical-codes.org/)</span></i></b>
+<b><i><span style="color:#000000;">Recorded in the standard databases for [Kissing Numbers](https://cohn.mit.edu/kissing-numbers/#7) and [Spherical Codes](https://spherical-codes.org/)</span></i></b>
 
 <b><i><span style="color:#000000;">Research Documentary: [English Version](https://www.youtube.com/watch?v=UA2OfJa4H84), [Chinese Version](https://www.bilibili.com/video/BV1GgAZzkEAe/?spm_id_from=333.1387.favlist.content.click&vd_source=072ee6c3b99fc631ef587312d04f1f7a)</span></i></b>
 
