@@ -37,7 +37,7 @@ I am a Ph.D. student at the Institute for Artificial Intelligence, Peking Univer
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/packing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<b><i><span style="color:#B22222;">The breakthrough in Hilbert’s 18th problem on spheres via a new object.</span></i></b><br>
+<b><i><span style="color:#B22222;">A breakthrough in spherical Hilbert’s 18th problem via new geometric objects.</span></i></b><br>
 
 [Finding Kissing Numbers with Game-theoretic Reinforcement Learning](https://arxiv.org/abs/2511.13391)
 
