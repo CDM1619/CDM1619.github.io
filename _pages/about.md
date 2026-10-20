@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👤 About me
-I am a Ph.D. student at the Institute for Artificial Intelligence, Peking University. I am working under the supervision of Prof. [Yaodong Yang](https://www.yangyaodong.com/), my first initiation mentor in multi-agent systems. My research interests include reinforcement learning, game theory, and their intersection with mathematical problems. The current topics I am focused on are:
-- **Multi-agent Systems**: Developing practical algorithms for large-scale system control and multi-player computer games.
-- **RL for Mathematics**: Exploring the potential of reinforcement learning in mathematical problems, e.g., discrete geometry.
+I am a Ph.D. student at the Institute for Artificial Intelligence, Peking University. I am advised by Prof. [Yaodong Yang](https://www.yangyaodong.com/), who first introduced me to the field of multi-agent systems. My research spans reinforcement learning, game theory, and their applications to mathematical discovery. My current work focuses on two directions:
+- **Multi-Agent Systems**: Developing practical, scalable learning algorithms for large-scale system control and multiplayer games.
+- **RL for Mathematics**: Using reinforcement learning to discover new geometric structures and tackle long-standing mathematical problems, such as the kissing number problem.
 
 <!--
 # 🔥 News
