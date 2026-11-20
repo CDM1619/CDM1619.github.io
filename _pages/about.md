@@ -63,11 +63,13 @@ This work has been covered by: <br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence</div><img src='images/NMI_fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<b><i><a href="images/UKRI-Best-Paper.html" style="color:#B22222; text-decoration: none;">UKRI 2026 Best Research Paper Award, ESI Highly Cited Paper</a></i></b><br>
+<b><i><a href="images/UKRI-Best-Paper.html" style="color:#B22222; text-decoration: none;">UKRI 2026 Best Research Paper Award</a></i></b><br>
 
 [Efficient and Scalable Reinforcement Learning for Large-scale Network Control](https://www.nature.com/articles/s42256-024-00879-7)
 
 **Chengdong Ma\***, Aming Li\*, Yali Du\*, Hao Dong, Yaodong Yang  <be>
+
+<b><i><span style="color:#000000;">ESI Highly Cited Paper in Computer Science</span></i></b>
 
 This work has been covered by: <br>
 [新华网 XinHua Net](http://www.news.cn/tech/20240904/1eeb042bdd5f4c6187fe0e2aa31196db/c.html)<br>
