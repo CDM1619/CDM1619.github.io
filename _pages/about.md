@@ -69,7 +69,8 @@ This work has been covered by: <br>
 
 **Chengdong Ma\***, Aming Li\*, Yali Du\*, Hao Dong, Yaodong Yang  <be>
 
-<b><i><span style="color:#000000;">ESI Highly Cited Paper in Computer Science</span></i></b>
+
+<b><i><span style="color:#000000;"><span aria-hidden="true">🏆</span> ESI Highly Cited Paper in Computer Science</span></i></b>
 
 This work has been covered by: <br>
 [新华网 XinHua Net](http://www.news.cn/tech/20240904/1eeb042bdd5f4c6187fe0e2aa31196db/c.html)<br>
