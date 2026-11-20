@@ -70,7 +70,7 @@ This work has been covered by: <br>
 **Chengdong Ma\***, Aming Li\*, Yali Du\*, Hao Dong, Yaodong Yang  <be>
 
 
-<span aria-hidden="true">🏆</span>
+
 <b><i><a href="https://www.lib.pku.edu.cn/2xxzzfw/21xkqb/ESIgbyfw/ESIgbyfwnr/" style="color:#000000; text-decoration:none;">ESI Highly Cited Paper in Computer Science</a></i></b>
 
 This work has been covered by: <br>
