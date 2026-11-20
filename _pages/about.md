@@ -71,7 +71,7 @@ This work has been covered by: <br>
 
 
 <span aria-hidden="true">🏆</span>
-<b><i><span style="color:#000000;">ESI Highly Cited Paper in Computer Science</a></span></i></b>
+<b><i><a href="https://www.lib.pku.edu.cn/2xxzzfw/21xkqb/ESIgbyfw/ESIgbyfwnr/" style="color:#000000; text-decoration:none;">ESI Highly Cited Paper in Computer Science</a></i></b>
 
 This work has been covered by: <br>
 [新华网 XinHua Net](http://www.news.cn/tech/20240904/1eeb042bdd5f4c6187fe0e2aa31196db/c.html)<br>
